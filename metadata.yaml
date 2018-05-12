@@ -1,9 +1,13 @@
 _repo: Wij-en-ons-ezeltje_50733
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Silvanus
     gutenberg_agent_id: '46060'
     url: http://www.gutenberg.org/2009/agents/46060
+covers:
+- cover_type: archival
+  image_path: 50733-h/images/01_cover.jpg
 creator:
   author:
     agent_name: Le Feuvre, Amy
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '3736'
     url: http://www.gutenberg.org/2009/agents/3736
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50733#Wij-en-ons-ezeltje
 gutenberg_issued: '2015-12-20'
 gutenberg_type: Text
 identifiers:
